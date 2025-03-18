@@ -24,6 +24,10 @@
     </a>
 </div>
 
+> [!IMPORTANT]
+> This version has been deprecated. See [uwvm2](https://github.com/Ulte/uwvm2) for the new version.
+>
+
 |[简体中文](README.zh_CN.md)|
 
 ## Contact Us
@@ -31,7 +35,7 @@
 - [Discord](https://discord.gg/xkvGy79e)
 - [KOOK](https://kook.top/L7rWIo)
 - QQ: [909035408](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZC_7qjkJTPdDT1-mjefD-a8X5V30A_ql&authKey=CJ41sGDX5Oyut4IccWrKUdsqSfbgJztM7OiJ4etn7ruTJRpYbgi%2FIrfEEJxHOZew&noverify=0&group_code=909035408)
-- repositories: [Gitee](https://gitee.com/UltiELF/uwvm), [GitCode](https://gitcode.com/MacroModel/uwvm), [GitHub](https://github.com/UltiELF/uwvm)
+- repositories: [Gitee](https://gitee.com/UltiELF/uwvm), [GitCode](https://gitcode.com/MacroModel/uwvm), [GitHub](https://github.com/Ulte/uwvm)
 
 ## Introduce
 Ultimate WebAssembly Virtual Machine

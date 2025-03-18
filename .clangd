@@ -2,3 +2,12 @@
   UnusedIncludes: None
 Hover:
     ShowAKA: Yes
+# CompileFlags:
+#   Add: 
+#     - "-Wall"          
+#     - "-Wextra"       
+#     - "-std=c++23"        
+#     - "-ID:/UltiELF/ulti-wvm/uwvm/third-parties/fast_io/include" 
+#     - "-Isrc/utils/"   
+#   Remove: ["-Werror"]   
+#   Compiler: clang++     
